@@ -4,8 +4,7 @@
   "description": "GitHub Action – Lint json to Job Summary",
   "main": "dist/index.js",
   "scripts": {
-    "build": "bun build src/index.ts --target=node --outfile=dist/index.js --minify",
-    "typecheck": "tsc --noEmit"
+    "build": "bun build src/index.ts --target=node --outfile=dist/index.js --minify"
   },
   "dependencies": {
     "@actions/core": "^3.0.1"
