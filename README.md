@@ -1,5 +1,10 @@
 # Lint Reporter
 
+[![Build](https://github.com/ThomasFarineau/lint-reporter/actions/workflows/ci.yml/badge.svg)](https://github.com/ThomasFarineau/lint-reporter/actions/workflows/ci.yml)
+[![Release](https://github.com/ThomasFarineau/lint-reporter/actions/workflows/release.yml/badge.svg)](https://github.com/ThomasFarineau/lint-reporter/actions/workflows/release.yml)
+[![Latest Tag](https://img.shields.io/github/v/tag/ThomasFarineau/lint-reporter)](https://github.com/ThomasFarineau/lint-reporter/tags)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 GitHub Action that generates a [Job Summary](https://docs.github.com/en/actions/writing-workflows/choosing-what-your-workflow-does/adding-a-job-summary) from an ESLint JSON report.
 
 ## Usage
