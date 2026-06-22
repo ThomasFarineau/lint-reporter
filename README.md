@@ -15,12 +15,12 @@ GitHub Action that generates a [Job Summary](https://docs.github.com/en/actions/
 
 ## Inputs
 
-| Input | Description | Default |
-|-------|-------------|---------|
-| `report-path` | Path to the ESLint JSON report file | `eslint-report.json` |
-| `fail-on-error` | Fail the step when lint errors are found | `true` |
-| `fail-on-warning` | Fail the step when lint warnings are found | `false` |
-| `title` | Title displayed in the Job Summary | `Lint Report` |
+| Input             | Description                                | Default              |
+| ----------------- | ------------------------------------------ | -------------------- |
+| `report-path`     | Path to the ESLint JSON report file        | `eslint-report.json` |
+| `fail-on-error`   | Fail the step when lint errors are found   | `true`               |
+| `fail-on-warning` | Fail the step when lint warnings are found | `false`              |
+| `title`           | Title displayed in the Job Summary         | `Lint Report`        |
 
 ## Example
 
